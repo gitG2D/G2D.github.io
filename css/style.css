@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    margin: 1;
+}
+
+header {
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+}
+
+.logo{
+    display: flex;
+}
+
+.logo-img{
+    height: 50px;
+    
+}
